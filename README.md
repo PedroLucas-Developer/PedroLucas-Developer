@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<p>Olá me chamo Pedro Lucas Macedo, tenho 19 anos, sou estudante de engenharia da computação na UFPB, atualmente morando em João pessoa, amo a área de desenvolvimento desde a adolescência, quando achava que se eu soube-se programar eu saberia hackear! Comecei estudando sozinho com vídeos no Youtube, StackOverflow, e alguns livros, desenvolvi pequenos projetos em Python, em 2018 fiz o curso técnico em informática onde descobrir minha paixão por robótica e competições de programação, alguns dos módulos do meu curso eram desenvolvimento em Javascript e Mysql. Mas tenho também um bom conhecimento em Python, React.js e React-Native, atualmente trabalho no desenvolvimento de E-mails, e de algumas aplicações em Pyhon e React.js na Point Media.</p>
+<p>Olá me chamo Pedro Lucas Macedo, tenho 20 anos, sou estudante de engenharia da computação na UFPB, atualmente morando em João pessoa, amo a área de desenvolvimento desde a adolescência, quando achava que se eu soube-se programar eu saberia hackear! Comecei estudando sozinho com vídeos no Youtube, StackOverflow, e alguns livros, desenvolvi pequenos projetos em Python, em 2018 fiz o curso técnico em informática onde descobrir minha paixão por robótica e competições de programação, alguns dos módulos do meu curso eram desenvolvimento em Javascript e Mysql. Mas tenho também um bom conhecimento em Python, React.js e React-Native, atualmente trabalho no desenvolvimento de E-mails, e de algumas aplicações em Pyhon e React.js na Point Media.</p>
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
