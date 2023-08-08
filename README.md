@@ -2,16 +2,16 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/pedro-lucas-macedo-de-moraes-b5458b191/" target="_blank">
-    <img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" />
+    <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100004840867554" target="_blank">
-    <img height="32px" src="https://wesleypribeiro.github.io/img/facebook.png" />
+    <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" />
   </a>
   <a href="https://www.instagram.com/lucas.macedoo_/" target="_blank">
-    <img height="32px" src="https://wesleypribeiro.github.io/img/instagram.png" />
+    <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" />
   </a>
   <a href="mailto:Pedrmorae@gmail.com" target="_blank">
-    <img height="32px" src="https://wesleypribeiro.github.io/img/email.png" />
+    <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" />
   </a>
 </p>
 
