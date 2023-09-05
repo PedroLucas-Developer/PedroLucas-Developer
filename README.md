@@ -43,9 +43,10 @@
 <img height="32px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="Mysql"/>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Null-Kc&theme=onedark-duo&hide_border=true&locale=pt_BR&mode=weekly&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Null-Kc&theme=transparent&hide_border=true&locale=pt_BR&fire=ff0000&stroke=ff0000&ring=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ff0000&dates=ffffff&excludeDaysLabel=ff0000)](https://git.io/streak-stats)
+[![Pedro GitHub stats](https://github-readme-stats.vercel.app/api/?username=Null-Kc&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff&title_color=ff0000&icon_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Kc&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Kc&layout=donut&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff&title_color=ff0000&icon_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api/?username=Null-Kc&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Null-Kc&theme=high-contrast&hide_border=true&title_color=ff0000&line=ff0000&color=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
