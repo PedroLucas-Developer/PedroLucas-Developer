@@ -45,6 +45,9 @@
 <img height="32px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="Mysql"/>
 </p>
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api/?username=Null-Kc&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Null-Kc&theme=onedark-duo&hide_border=true&locale=pt_BR&mode=weekly&card_width=500)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Kc&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff)
+
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api/?username=Null-Kc&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
 
