@@ -1,11 +1,9 @@
-<h2>Olá Mundo  👋</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&width=435&separator=%3C&lines=Ola+Mundo;)](https://git.io/typing-svg)
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/pedro-lucas-macedo-de-moraes-b5458b191/" target="_blank">
     <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100004840867554" target="_blank">
-    <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" />
   </a>
   <a href="https://www.instagram.com/lucas.macedoo_/" target="_blank">
     <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" />
