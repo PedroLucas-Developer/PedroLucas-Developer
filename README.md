@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&width=435&separator=%3C&lines=Ola+Mundo;)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&width=435&separator=%3C&lines=Veja+Meu+Portifolio;)](https://l1nq.com/PedroLucas-Develop?ref=github)
 
 <p align="left">
     <a href="https://www.linkedin.com/in/pedro-lucas-macedo-de-moraes-b5458b191/" target="_blank">
