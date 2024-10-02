@@ -27,9 +27,13 @@ Estou à procura de **novas oportunidades** que me desafiem a aplicar minhas hab
 - **Desenvolvimento Full-stack**: Buscando expandir meus conhecimentos em backend e cloud para oferecer soluções mais completas.
 
 ### 📂 Projetos em Destaque:
-- **Re.Animate**: O **Re.Animate** é uma plataforma inovadora, projetada para proporcionar uma experiência digital personalizada e intuitiva. Com uma interface moderna e acessível, o usuário pode facilmente explorar todas as funcionalidades, ajustar configurações de acordo com suas preferências e encontrar soluções para suas necessidades digitais em um só lugar. [Explore o Re.Animate]([link_do_site](https://re-animate.vercel.app/)) e descubra uma experiência única!
+- [**Re.Animate**](https://re-animate.vercel.app/): Uma plataforma inovadora que oferece uma experiência digital intuitiva. Explore funcionalidades conforme suas necessidades. Experimente o Re.Animate!
 
-- **Up.Talent**: O **Up.Talent** é uma plataforma focada em conectar talentos com oportunidades, oferecendo uma navegação simples e fluida. Através de uma interface personalizável e interativa, você pode adaptar a plataforma para atender às suas necessidades de apresentação, oferecendo soluções práticas e dinâmicas. [Conheça o Up.Talent]([link_do_site](https://up-talent.vercel.app/)) e veja como ele pode transformar sua experiência!
+Tecnologias: Next.js, TypeScript, Tailwind CSS, Framer Motion, Swiper, React-icons
+
+- [**Up.Talent**](https://up-talent.vercel.app/): Uma plataforma que conecta talentos a oportunidades com uma interface intuitiva. Personalize sua experiência e encontre soluções para suas necessidades de apresentação. Descubra o que torna o Up.Talent especial!
+
+Tecnologias: Next.js, TypeScript, Tailwind CSS, Framer Motion
 
 
 Confira mais no meu [portfólio completo](https://portifolio-bay-beta.vercel.app/).
