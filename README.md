@@ -46,3 +46,8 @@ Se você tem um projeto interessante ou uma oportunidade que gostaria de discuti
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)]([link_do_linkedin](https://www.linkedin.com/in/pedro-lucas-macedo-de-moraes/)) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](pedrlucasmacedo@gmail.com)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLucas-Developer&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-Developer&hide_progress=true&theme=dark)
+
+
